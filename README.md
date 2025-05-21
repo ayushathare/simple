@@ -1,1 +1,1 @@
-# simple
+print("hello world")
